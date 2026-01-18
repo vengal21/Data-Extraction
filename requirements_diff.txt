@@ -1,8 +1,0 @@
---- requirements.txt (原始)
-
-
-+++ requirements.txt (修改后)
-beautifulsoup4==4.9.3
-requests==2.25.1
-pandas==1.3.3
-lxml==4.6.3
