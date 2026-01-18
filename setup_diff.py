@@ -1,7 +1,7 @@
---- setup.py (原始)
+--- setup.py
 
 
-+++ setup.py (修改后)
++++ setup.py
 from setuptools import setup, find_packages
 
 setup(
