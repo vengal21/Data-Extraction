@@ -1,7 +1,4 @@
---- README.md (原始)
 
-
-+++ README.md (修改后)
 # BlackCoffer Article Scraper
 
 This project is designed to scrape articles from the BlackCoffer Insights website and extract their content for further analysis. The main purpose is to collect text data from various articles covering topics such as technology, AI, future trends, healthcare, and more, for natural language processing (NLP) tasks.
